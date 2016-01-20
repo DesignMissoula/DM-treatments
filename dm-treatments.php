@@ -36,7 +36,7 @@ function register_cpt_treatment() {
         'show_ui' => true,
         'show_in_menu' => true,
         
-        'menu_icon' => 'dashicons-book',
+        'menu_icon' => 'dashicons-hammer',
         
         'show_in_nav_menus' => true,
         'publicly_queryable' => true,
